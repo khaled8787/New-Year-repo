@@ -4,11 +4,17 @@
     font-style: oblique;
     text-align: center;
     border: 20px solid white;border-radius: 10px;
-    background-image: url(images/Banner\ Image.png);height: 600px;width: 1200px;
+    background-image: url(images/Banner\ Image.png);height: 600px;width: 1400px;margin-left: 95px;
     background-repeat: no-repeat;
 
 
 }
 div h4 {
-    font-size: 32px;
+    font-size: 40px;
+}
+
+
+.Party{
+    margin: 150px;
+    background-image: url(images/Vectorrr.png);height: 600px;
 }
