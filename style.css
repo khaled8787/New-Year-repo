@@ -1,0 +1,14 @@
+/* header part */
+.happy{
+    color: darkblue;
+    font-style: oblique;
+    text-align: center;
+    border: 20px solid white;border-radius: 10px;
+    background-image: url(images/Banner\ Image.png);height: 600px;width: 1200px;
+    background-repeat: no-repeat;
+
+
+}
+div h4 {
+    font-size: 32px;
+}
